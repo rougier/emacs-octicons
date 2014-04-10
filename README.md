@@ -27,4 +27,6 @@ under a version control system
    ))
 ```
 
+You should obtain something like this:
+
 ![octicons modeline screenshot](octicons-modeline.png)
