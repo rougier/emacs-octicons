@@ -36,12 +36,18 @@
 ;; This define a mode-line that prepend an octoface (github) if the file is
 ;; under a version control system
 ;;
+;; (require 'octicons)
+;; (make-face 'octicons-mode-line)
+;; (set-face-attribute 'octicons-mode-line nil
+;;                    :inherit 'mode-line
+;;                    :inherit 'octicons)
+;;
 ;; (setq-default mode-line-format (list
 ;;    " "
 ;;    '(:eval (if (vc-backend buffer-file-name)
 ;;                (list
-;;                 (propertize octicon-octoface 'face 'octicons)
-;;                 (propertize " " 'face 'mode-line))))
+;;                 (propertize octicon-octoface 'face 'octicons-modeline)
+;;                 (propertize " "              'face 'mode-line))))
 ;;    mode-line-mule-info
 ;;    'mode-line-modified
 ;;    "-  "
