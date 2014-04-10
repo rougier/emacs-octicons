@@ -27,4 +27,4 @@ under a version control system
    ))
 ```
 
-![./octicons-modeline.png]()
+![octicons modeline screenshot](octicons-modeline.png)

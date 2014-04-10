@@ -2,10 +2,10 @@
 ;; This file is not part of Emacs
 
 ;; Copyright (C) 2014 by Nicolas P. Rougier
-;; Author:          Nicolas P. Rougier (Nicolas.Rougier@inria.fr)
-;; Maintainer:      Nicolas P. Rougier (Nicolas.Rougier@inria.fr)
-;; Created:         April 9, 2014
-;; Keywords:        glyph icon octicons github
+;; Author:       Nicolas P. Rougier (Nicolas.Rougier@inria.fr)
+;; Maintainer:   Nicolas P. Rougier (Nicolas.Rougier@inria.fr)
+;; Created:      April 10, 2014
+;; Keywords:     glyph icon octicons github
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
