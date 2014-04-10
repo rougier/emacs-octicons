@@ -26,3 +26,5 @@ under a version control system
    `(vc-mode vc-mode)
    ))
 ```
+
+![./octicons-modeline.png]()
