@@ -14,6 +14,7 @@ This define a mode-line that prepend an octoface (github) if the file is
 under a version control system
 
 ```
+(require 'octicons)
 (setq-default mode-line-format (list
    " "
    '(:eval (if (vc-backend buffer-file-name)
