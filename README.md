@@ -16,7 +16,6 @@ under a version control system
 ```
 (require 'octicons)
 
-(require 'octicons)
 (make-face 'octicons-mode-line)
 (set-face-attribute 'octicons-mode-line nil
                     :inherit 'mode-line
