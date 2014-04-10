@@ -4,6 +4,10 @@ The octicon font provided by github (https://github.com/styleguide/css/7.0)
 provides some nice icons embedded in a font. The strings below give an
 easier access to them and must be used with the relevant face (octicons).
 
+**I do not provide the octicon font** You will need to install it yoursel from
+  the github styleguide site (search in the page source).
+
+
 ## Example
 
 This define a mode-line that prepend an octoface (github) if the file is
