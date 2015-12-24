@@ -1,11 +1,12 @@
 # Emacs octicons glyph name
 
-The octicon font by github (https://github.com/styleguide/css/7.0) provides
+The octicon font by github (https://github.com/styleguide/css/) provides
 some nice icons embedded in a font. This package gives an easier access to them
 and must be used with the relevant face (octicons).
 
 **I do not provide the octicon font.** You will need to install it yourself from
-  the github styleguide site (search in the page source).
+[the github styleguide site](https://github.com/primer/primer#install)
+(search in [the page](https://github.com/primer/primer/blob/master/README.md#install) source).
 
 
 ## Example
@@ -13,7 +14,7 @@ and must be used with the relevant face (octicons).
 This define a mode-line that prepend an octoface (github) if the file is
 under a version control system
 
-```
+```lisp
 (require 'octicons)
 
 (make-face 'octicons-mode-line)
